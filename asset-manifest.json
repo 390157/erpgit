@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/erpgit/static/css/main.ee74723c.css",
-    "main.js": "/erpgit/static/js/main.cfd8d6d0.js",
+    "main.js": "/erpgit/static/js/main.6f126629.js",
     "static/js/27.eeb12784.chunk.js": "/erpgit/static/js/27.eeb12784.chunk.js",
     "static/media/Zone01_508x253.jpg": "/erpgit/static/media/Zone01_508x253.24d311d666f6980b2e5f.jpg",
     "static/media/avatar_container_106x110.png": "/erpgit/static/media/avatar_container_106x110.a01e931248cfc8e6fd4d.png",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.ee74723c.css",
-    "static/js/main.cfd8d6d0.js"
+    "static/js/main.6f126629.js"
   ]
 }
