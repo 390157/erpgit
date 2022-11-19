@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/erpgit/static/css/main.ee74723c.css",
-    "main.js": "/erpgit/static/js/main.96de1f9c.js",
+    "main.css": "/erpgit/static/css/main.41d372ca.css",
+    "main.js": "/erpgit/static/js/main.8e31eea3.js",
     "static/js/27.eeb12784.chunk.js": "/erpgit/static/js/27.eeb12784.chunk.js",
     "static/media/Zone01_508x253.jpg": "/erpgit/static/media/Zone01_508x253.24d311d666f6980b2e5f.jpg",
     "static/media/avatar_container_106x110.png": "/erpgit/static/media/avatar_container_106x110.a01e931248cfc8e6fd4d.png",
@@ -18,7 +18,7 @@
     "index.html": "/erpgit/index.html"
   },
   "entrypoints": [
-    "static/css/main.ee74723c.css",
-    "static/js/main.96de1f9c.js"
+    "static/css/main.41d372ca.css",
+    "static/js/main.8e31eea3.js"
   ]
 }
