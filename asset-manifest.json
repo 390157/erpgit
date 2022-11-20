@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/erpgit/static/css/main.41d372ca.css",
-    "main.js": "/erpgit/static/js/main.8e31eea3.js",
+    "main.css": "/erpgit/static/css/main.c8eccc72.css",
+    "main.js": "/erpgit/static/js/main.ac245ef0.js",
     "static/js/27.eeb12784.chunk.js": "/erpgit/static/js/27.eeb12784.chunk.js",
     "static/media/Zone01_508x253.jpg": "/erpgit/static/media/Zone01_508x253.24d311d666f6980b2e5f.jpg",
     "static/media/avatar_container_106x110.png": "/erpgit/static/media/avatar_container_106x110.a01e931248cfc8e6fd4d.png",
@@ -13,12 +13,14 @@
     "static/media/ski_1.png": "/erpgit/static/media/ski_1.6bc7ac9f9200a664b5a1.png",
     "static/media/inv_0.png": "/erpgit/static/media/inv_0.043ca095d1f46e524eb2.png",
     "static/media/inv_1.png": "/erpgit/static/media/inv_1.9691f2ffd07f1505adeb.png",
+    "static/media/header_246x40.png": "/erpgit/static/media/header_246x40.d154d376c8c48b9b9bfa.png",
     "static/media/sho_0.png": "/erpgit/static/media/sho_0.55a23ba4bcfa14930197.png",
     "static/media/sho_1.png": "/erpgit/static/media/sho_1.6fc969bd1250a53b1c92.png",
+    "static/media/slot_limit_bg_80x64.png": "/erpgit/static/media/slot_limit_bg_80x64.dc0e77a2493a8f8b6196.png",
     "index.html": "/erpgit/index.html"
   },
   "entrypoints": [
-    "static/css/main.41d372ca.css",
-    "static/js/main.8e31eea3.js"
+    "static/css/main.c8eccc72.css",
+    "static/js/main.ac245ef0.js"
   ]
 }
