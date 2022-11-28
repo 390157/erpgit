@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/erpgit/static/css/main.c8eccc72.css",
-    "main.js": "/erpgit/static/js/main.ac245ef0.js",
+    "main.css": "/erpgit/static/css/main.e78f4183.css",
+    "main.js": "/erpgit/static/js/main.d2ad8d95.js",
     "static/js/27.eeb12784.chunk.js": "/erpgit/static/js/27.eeb12784.chunk.js",
     "static/media/Zone01_508x253.jpg": "/erpgit/static/media/Zone01_508x253.24d311d666f6980b2e5f.jpg",
     "static/media/avatar_container_106x110.png": "/erpgit/static/media/avatar_container_106x110.a01e931248cfc8e6fd4d.png",
@@ -17,10 +17,11 @@
     "static/media/sho_0.png": "/erpgit/static/media/sho_0.55a23ba4bcfa14930197.png",
     "static/media/sho_1.png": "/erpgit/static/media/sho_1.6fc969bd1250a53b1c92.png",
     "static/media/slot_limit_bg_80x64.png": "/erpgit/static/media/slot_limit_bg_80x64.dc0e77a2493a8f8b6196.png",
+    "static/media/inner_sample_80x80.png": "/erpgit/static/media/inner_sample_80x80.5a2ef78abca575dd48e6.png",
     "index.html": "/erpgit/index.html"
   },
   "entrypoints": [
-    "static/css/main.c8eccc72.css",
-    "static/js/main.ac245ef0.js"
+    "static/css/main.e78f4183.css",
+    "static/js/main.d2ad8d95.js"
   ]
 }
